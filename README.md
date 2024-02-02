@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on prjects and startups
 - 📫 How to reach me teklemariameureka@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+  
 
 <!---
 xeureka/xeureka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
