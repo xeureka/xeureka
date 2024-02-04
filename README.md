@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Eureka Teklemariam
-- 👀 I’m interested in computers,mathematics and physics
+- 👀 I’m interested in computer science,mathematics and physics
 - 🌱 I’m currently learning full stack web and android app development
-- 💞️ I’m looking to collaborate on prjects and startups
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me teklemariameureka@gmail.com
-- 😄 Pronouns: he/him
+  
   
 
 <!---
