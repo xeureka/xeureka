@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eureka Teklemariam
 - 👀 I’m interested in computers,mathematics and physics
-- 🌱 I’m currently learning full stack web and obile development
+- 🌱 I’m currently learning full stack web and android app development
 - 💞️ I’m looking to collaborate on prjects and startups
 - 📫 How to reach me teklemariameureka@gmail.com
 - 😄 Pronouns: he/him
