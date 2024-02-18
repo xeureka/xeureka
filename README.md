@@ -1,9 +1,5 @@
-- 👋 Hi, I’m Eureka Teklemariam
-- 👀 I’m interested in computer's,math and physics.
-- 🌱 I’m currently learning full stack web and android app development
-- 💞️ I’m looking to collaborate on projects,startups and related things
-- 📫 How to reach me teklemariameureka@gmail.com
-  
+- 👋 Hi, I’m Eureka 
+
   
   
 
