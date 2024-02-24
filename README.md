@@ -21,20 +21,19 @@ Welcome to my GitHub profile! I'm currently studying full stack web and mobile d
 
   ## ⚡ Skills
 
-![HTML](https://img.shields.io/badge/HTML-Intermediate-orange)
-![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-![React](https://img.shields.io/badge/React-Intermediate-blue)
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green)
+![HTML](https://img.shields.io/badge/HTML-Begineer-orange)
+![CSS](https://img.shields.io/badge/CSS-Begineer-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Begineer-yellow)
+![React](https://img.shields.io/badge/React-Begineer-blue)
+![Node.js](https://img.shields.io/badge/Node.js-Begineer-green)
 ![Ruby](https://img.shields.io/badge/Ruby-Beginner-red)
-![SQL](https://img.shields.io/badge/SQL-Intermediate-lightgrey)
+![SQL](https://img.shields.io/badge/SQL-Begineer-lightgrey)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Intermidate-yellow)
 ![Python](https://img.shields.io/badge/Python-Intermediate-lightgrey)
 ![C++](https://img.shields.io/badge/c++-Intermediate-lightgrey)
+![DSA](https://img.shields.io/badge/DSA-Beginer-lightgrey)
 
-## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername)
 
 ## 👯 Let's Collaborate!
 
