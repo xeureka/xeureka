@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm currently studying full stack web and mobile d
 ## 🌱 What I'm Currently Learning
 
 - 📚 MERN stack (MongoDB, Express.js, React, Node.js)
+- 📚 SQL and database management systems (e.g., MySQL, PostgreSQL)
 - 📚 Ruby and Ruby on Rails
 - 📚 Web pentest,reverse engineering,binary exploitation and other cyber security related concepts
 
@@ -20,7 +21,7 @@ Welcome to my GitHub profile! I'm currently studying full stack web and mobile d
 
 ## 👯 Let's Collaborate!
 
-If you're working on a project related to MERN stack, Ruby, cybersecurity, CTF games, or competitive programming, I'd love to collaborate! Feel free to reach out to me through [Gmail](teklemariameureka@gmail.com )or connect with me on [LinkedIn](https://www.linkedin.com/in/eureka-teklemariam-a98854299/).
+If you're working on a project related to MERN stack, Ruby, cybersecurity, CTF games, or competitive programming, I'd love to collaborate! Feel free to reach out to me through [Gmail](teklemariameureka@gmail.com ) or connect with me on [LinkedIn](https://www.linkedin.com/in/eureka-teklemariam-a98854299/).
 
 ## 📫 How to Reach Me
 
