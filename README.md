@@ -28,7 +28,9 @@ Welcome to my GitHub profile! I'm currently studying full stack web and mobile d
 ![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green)
 ![Ruby](https://img.shields.io/badge/Ruby-Beginner-red)
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-lightgrey)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Beginner-yellow)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Intermidate-yellow)
+![Python](https://img.shields.io/badge/Python-Intermediate-lightgrey)
+![C++](https://img.shields.io/badge/c++-Intermediate-lightgrey)
 
 ## 👀 Profile Views
 
