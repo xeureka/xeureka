@@ -19,6 +19,21 @@ Welcome to my GitHub profile! I'm currently studying full stack web and mobile d
 - 🚀 Participating in CTF competitions and honing my cybersecurity skills
 - 🚀 Solving programming challenges on platforms like HackerRank and LeetCode and codeforce.
 
+  ## ⚡ Skills
+
+![HTML](https://img.shields.io/badge/HTML-Intermediate-orange)
+![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+![React](https://img.shields.io/badge/React-Intermediate-blue)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green)
+![Ruby](https://img.shields.io/badge/Ruby-Beginner-red)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-lightgrey)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Beginner-yellow)
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername)
+
 ## 👯 Let's Collaborate!
 
 If you're working on a project related to MERN stack, Ruby, cybersecurity, CTF games, or competitive programming, I'd love to collaborate! Feel free to reach out to me through [Gmail](teklemariameureka@gmail.com ) or connect with me on [LinkedIn](https://www.linkedin.com/in/eureka-teklemariam-a98854299/).
