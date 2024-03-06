@@ -21,17 +21,17 @@ Welcome to my GitHub profile! I'm currently studying full stack web and mobile d
 
   ## ⚡ Skills
 
-![HTML](https://img.shields.io/badge/HTML-Begineer-orange)
-![CSS](https://img.shields.io/badge/CSS-Begineer-blue)
+![HTML](https://img.shields.io/badge/HTML-Intermidate-yellow)
+![CSS](https://img.shields.io/badge/CSS-Begineer-yellow)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Begineer-yellow)
-![React](https://img.shields.io/badge/React-Begineer-blue)
-![Node.js](https://img.shields.io/badge/Node.js-Begineer-green)
-![Ruby](https://img.shields.io/badge/Ruby-Beginner-red)
-![SQL](https://img.shields.io/badge/SQL-Begineer-lightgrey)
+![React](https://img.shields.io/badge/React-Begineer-yellow)
+![Node.js](https://img.shields.io/badge/Node.js-Begineer-yellow)
+![Ruby](https://img.shields.io/badge/Ruby-Beginner-yellow)
+![SQL](https://img.shields.io/badge/SQL-Begineer-yellow)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Intermidate-yellow)
-![Python](https://img.shields.io/badge/Python-Intermediate-lightgrey)
-![C++](https://img.shields.io/badge/c++-Intermediate-lightgrey)
-![DSA](https://img.shields.io/badge/DSA-Beginer-lightgrey)
+![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
+![C++](https://img.shields.io/badge/c++-Intermediate-yellow)
+![DSA](https://img.shields.io/badge/DSA-Beginer-yellow)
 
 
 
