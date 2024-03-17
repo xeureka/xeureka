@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm currently studying full stack web and mobile d
 ## 🌱 What I'm Currently Learning
 
 - 📚 MERN stack (MongoDB, Express.js, React, Node.js)
-- 📚 SQL and database management systems (e.g., MySQL, PostgreSQL)                                             ![https://media.giphy.com/media/l4FGE9ijooffYHbLG/giphy.gif]
+- 📚 SQL and database management systems (e.g., MySQL, PostgreSQL)                                       
 - 📚 Ruby and Ruby on Rails
 - 📚 Web pentest,reverse engineering,binary exploitation and other cyber security related concepts
 
