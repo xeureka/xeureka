@@ -1,4 +1,6 @@
-👋 am Eureka just a computerphile (nothing fancy,just learning the basics)
+👋 am Eureka just learning the basics of programming
+
+- interested in cyber ecurity,web development and competative programming
   
   
 
