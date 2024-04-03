@@ -1,7 +1,7 @@
-👋 am Eureka just learning the basics of programming
+👋 Am Eureka, just always learning different stuffs
 
-- interested in cyber security,web development and competative programming
-- Currently learning networking,frontend web technologies and competative programming
+- interested in cyber security,web development(specially on backend and web3.0) and competative programming
+
   
   
 
