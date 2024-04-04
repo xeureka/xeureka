@@ -1,6 +1,6 @@
-👋 Am Eureka, just always learning different stuffs
+- Am Eureka if you don't know me you do now !!
+- Nothing fancy just a techie.
 
-- interested in cyber security,web development(specially on backend and web3.0) and competative programming
 
   
   
