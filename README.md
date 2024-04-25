@@ -1,6 +1,6 @@
 Hi there 👋
 
-- I am Eureka
-- I am Developer and Haxor
+- I am Eureka aka @xeurek4
+- - I am Developer and Haxor
   
 
