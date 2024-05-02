@@ -11,7 +11,7 @@ I am a self thaught Developer and cyber security enthusiaist with the aim of mak
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,C++,tailwind,React)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,tailwind)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
