@@ -1,51 +1,29 @@
-# Hi, I'm Eureka T/mariam! 👋
+<h1 align="center">Hi 👋, I'm Eureka T/mariam</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xeureka&label=Profile%20views&color=0e75b6&style=flat" alt="xeureka" /> </p>
 
-I am a self thaught Developer and cyber security enthusiaist with the aim of making amaizing stuffs and contributions.
+- 🔭 I’m currently working on **Frontend web development**
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+- 🌱 I’m currently learning **Javascript,Data structure and algorithm**
 
-## 🚀 About Me
+- 📫 How to reach me **teklemariameureka@gmail.com**
 
-- 🔭 I'm currently learning Computer science .
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.hackerrank.com/xeurek4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="xeurek4" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/xeureka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="xeureka" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/xeurek4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xeurek4" height="30" width="40" /></a>
+</p>
 
-
-
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,tailwind)](https://skillicons.dev)
-
-## 🌱 Currently Exploring
-
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React dynamic front-end experiences.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django and NodeJS a powerful Python web framework.
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
  ## 🏆 Achievements
 
-- 🌟 Participate at 2023 Ethiopian colligate programming contest.
+- 🌟 Compete on Ethiopian colligiare programming contest 2023.
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xeureka&show_icons=true&locale=en&layout=compact" alt="xeureka" /></p>
 
-## 📬 Get in Touch
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xeureka&show_icons=true&locale=en" alt="xeureka" /></p>
 
-- Connect with me on [Twitter](https://twitter.com/xeurek4)
-- Connect with me on [Linkdin]([https://linkdin.com/xeurek4](https://www.linkedin.com/in/eureka-t-mariam-a98854299/))
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xeureka&" alt="xeureka" /></p>
 
