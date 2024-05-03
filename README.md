@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eureka T/mariam</h1>
-- 🔭 I’m currently working on **Frontend web development**
+- 🔭 I’m currently working on Full stack web development(MERN) and Web pentesting
 
 - 🌱 I’m currently learning **Javascript,Data structure and algorithm**
 
