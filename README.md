@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eureka T/mariam</h1>
-- 🔭 I’m currently working on Full stack web development(MERN) and Web pentesting
+- 🔭 I’m currently working on Full stack web development (MERN and Django ), Web pentesting ,Reverse engieering.
 
-- 🌱 I’m currently learning **Javascript,Data structure and algorithm**
+- 🌱 I’m currently learning **Javascript,Data structure and algorithm,Digital Forensics**
 
 - 📫 How to reach me **teklemariameureka@gmail.com**
 
