@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eureka T/mariam</h1>
-- 👨‍💻 All of my projects are available at [xeureka](xeureka)
+<h3 align="center">I am Eureka a developer,competative programmer and cyber security enthusiast from Ethiopia.</h3>
 
 - 📫 How to reach me **teklemariameureka@gmail.com**
 
