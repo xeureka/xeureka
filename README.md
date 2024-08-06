@@ -1,6 +1,8 @@
 # 💫 About Me:
 <br>🌱 I’m currently learning React JS, Tailwind CSS<br>💬 Ask me about Competative programming, web development<br>
 
+<a href="https://wakatime.com/@a5057952-f0b6-4be6-a2ad-e96dfdd4a268"><img src="https://wakatime.com/badge/user/a5057952-f0b6-4be6-a2ad-e96dfdd4a268.svg" alt="Total time coded since Jun 3 2024" /></a>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/xeurek4) 
