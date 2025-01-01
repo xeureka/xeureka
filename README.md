@@ -10,7 +10,6 @@
 
 
 [![wakatime](https://wakatime.com/badge/user/xeurek4.svg)](https://wakatime.com/@xeurek4)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xeurek4&label=Profile%20views&color=0e75b6&style=flat" alt="xeurek4" /> </p>
 
 ## GitHub Stats
 <table border="0" border="none">
