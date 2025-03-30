@@ -13,7 +13,7 @@
 <table border="0" border="none">
  <tr>
     <td>
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Besufikad17&count_private=true&title_color=0E8EE9&icon_color=0E8EE9&custom_title=Besufikad's+GitHub+Stats&show_icons=true"
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=xeureka&count_private=true&title_color=0E8EE9&icon_color=0E8EE9&custom_title=xeureka's+GitHub+Stats&show_icons=true"
    </td>
  </tr>
 </table>
@@ -21,4 +21,4 @@
 
 ## Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Besufikad17&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeureka&layout=compact)
