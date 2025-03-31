@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Web and Android App development
+- 🔭 I’m currently working on Web app development and competative programming.
 - 👯 I’m looking to collaborate on anything interesting
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Telegram](https://t.me/xeurek4) [Linkedin](https://www.linkedin.com/in/xeurek4/)
