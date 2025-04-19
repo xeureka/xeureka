@@ -1,9 +1,6 @@
-### Hi there 👋
 
 
-- 🔭 I’m currently working on web dev't & competative prog.
-
-- 📫 How to reach me: [Telegram](https://t.me/xeurek4) [Linkedin](https://www.linkedin.com/in/xeurek4/)
+ [Telegram](https://t.me/xeurek4) [Linkedin](https://www.linkedin.com/in/xeurek4/)
 
 
 
