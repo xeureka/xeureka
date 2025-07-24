@@ -1,8 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Eureka</h1>
-<h3 align="center">A passionate developer developer from Ethiopia</h3>
+<h1 align="center">Hi , I'm Eureka</h1>
 
-<h3 align="left">Connect with me: @xeurek4 on telegram</h3>
 <p align="left">
 </p>
 
