@@ -1,5 +1,8 @@
 
 ## Hey 👋, I'm [Eureka T/mariam!](https://eurekabab.vercel.app)
+
+  Backend Developer with Typescript, Golang
+
 [Website](https://eurekabab.vercel.app/) |
 [Telegram](https://t.me/xeurek4)
 - 📫 &nbsp; Reach me at: teklemariameureka@gmail.com
