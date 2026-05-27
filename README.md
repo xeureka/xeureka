@@ -1,10 +1,15 @@
-
-## Hey 👋, I'm [Eureka T/mariam!](https://eurekabab.vercel.app)
-
-  Backend Developer with Typescript, Golang
-
-[Website](https://eurekabab.vercel.app/) |
-[Telegram](https://t.me/xeurek4)
-- 📫 &nbsp; Reach me at: teklemariameureka@gmail.com
-
-[![wakatime](https://wakatime.com/badge/user/a5057952-f0b6-4be6-a2ad-e96dfdd4a268.svg)](https://wakatime.com/@a5057952-f0b6-4be6-a2ad-e96dfdd4a268)
+<p align="center">
+  <samp>
+    <a href="https://eurekabab.vercel.app">me</a> .
+    <a href="https://antfu.me/posts">blog</a> .
+    <a href="https://antfu.me/projects">projects</a> .
+    <a href="https://antfu.me/talks">talks</a> .
+    <a href="https://antfu.me/podcasts">podcasts</a> .
+    <a href="https://100.antfu.me">compform</a> .
+    <a href="https://bsky.app/profile/antfu.me">bluesky</a> .
+    <a href="https://twitter.com/antfu7">tweets</a> .
+    <a href="https://chat.antfu.me">discord</a> .
+    <a href="https://antfu.me/photos">photos</a> .
+    <a href="https://github.com/sponsors/antfu">sponsor</a>
+  </samp>
+</p>
