@@ -1,2 +1,2 @@
 #!/usr/bin/env node
-require('open')('https://antfu.me/')
+require('open')('https://eurekabab.vercel.app/')
